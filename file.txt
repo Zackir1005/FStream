@@ -1,0 +1,6 @@
+Oranges
+Hello World
+Apples
+Bye!
+Hi!
+Nice to meet you!
